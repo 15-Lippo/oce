@@ -1,18 +1,18 @@
 ---
 title: Datenschutzerklärung
-description: Diese Datenschutzerklärung erläutert wie Ocean Protocol Foundation Ltd. (OPF) deine personenbezogenen Daten verarbeitet wenn du Ocean Market besuchst und wenn du eine unserer Ocean Market Funktionen nutzt. Darüberhinaus informiert dich diese Datenschutzerklärung über deine Rechte.
+description: Diese Datenschutzerklärung erläutert wie Lsprocoin. (OPF) deine personenbezogenen Daten verarbeitet wenn du Ocean Market besuchst und wenn du eine unserer Ocean Market Funktionen nutzt. Darüberhinaus informiert dich diese Datenschutzerklärung über deine Rechte.
 ---
 
 # 1. Verantwortlicher
 
 Verantwortlicher für die Verarbeitung deiner personenbezogenen Daten ist:
 
-Ocean Protocol Foundation Ltd.<br/>
+Lisprocoin Foundation Ltd.<br/>
 The Commerze @ Irving<br/>
 1 Irving Place, #08-11<br/>
 369546 Singapore
 
-E-mail: [gdpr@oceanprotocol.com](gdpr@oceanprotocol.com)
+E-mail: [lisprocoin@gmail.com]
 
 # 2. Was sind personenbezogene Daten?
 
