@@ -1,6 +1,6 @@
 ---
 title: Datenschutzerklärung
-description: Diese Datenschutzerklärung erläutert wie Lsprocoin. (OPF) deine personenbezogenen Daten verarbeitet wenn du Ocean Market besuchst und wenn du eine unserer Ocean Market Funktionen nutzt. Darüberhinaus informiert dich diese Datenschutzerklärung über deine Rechte.
+description: Diese Datenschutzerklärung erläutert wie Lisprocoin. (OPF) deine personenbezogenen Daten verarbeitet wenn du Ocean Market besuchst und wenn du eine unserer Ocean Market Funktionen nutzt. Darüberhinaus informiert dich diese Datenschutzerklärung über deine Rechte.
 ---
 
 # 1. Verantwortlicher
